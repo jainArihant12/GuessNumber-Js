@@ -24,10 +24,10 @@ Play the game here: [Guess The Number](https://jainArihant12.github.io/GuessNumb
 <img src="guess1.png" alt="Guess The Number" width="300" height="300">
 
 ### Condition Two:
-<img src="guess.png" alt="Guess The Number" width="300" height="300">
+<img src="guess2.png" alt="Guess The Number" width="300" height="300">
 
-### Condition Three:
-<img src="guess.png" alt="Guess The Number" width="300" height="300">
+### Condition Three(Win):
+<img src="guess3.png" alt="Guess The Number" width="300" height="300">
 
 
 ## Features
