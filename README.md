@@ -3,9 +3,12 @@
 ## Description
 A simple number guessing game built with HTML, CSS, and JavaScript. The player must guess a randomly generated number within a specified range, receiving hints until they find the correct number.
 
-##Screenshot
+##Demo
+Play the game here: [Guess The Number](https://jainArihant12.github.io/GuessNumber-Js/)
 
-![Guess The Number](guess.png)
+##Screenshot
+<img src="guess.png" alt="Guess The Number" width="300" height="300">
+
 
 ## How to Play
 1. The game generates a random number within a predefined range (e.g., 1 to 100).
@@ -17,7 +20,14 @@ A simple number guessing game built with HTML, CSS, and JavaScript. The player m
 4. The game tracks the number of attempts.
 5. Reset the game to start over.
 
+###Condition One:
+<img src="guess1.png" alt="Guess The Number" width="300" height="300">
 
+###Condition Two:
+<img src="guess.png" alt="Guess The Number" width="300" height="300">
+
+###Condition Three:
+<img src="guess.png" alt="Guess The Number" width="300" height="300">
 
 
 ## Features
